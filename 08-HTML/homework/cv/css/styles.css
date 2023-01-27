@@ -1,0 +1,46 @@
+
+.titulo h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkslategray;
+}
+
+.desc h2 {
+    color: deepskyblue;
+}
+
+.desc p {
+    text-align: center;
+    color: white;
+}
+
+.seccion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: dimgray;
+}
+
+.seccion h4 {
+    color: greenyellow;
+}
+
+.seccion p {
+    color: white;
+    text-align: center;
+}
+
+.mifoto {
+    display: flex;
+    justify-content: center;
+}
+
+.mifoto img {
+    width: 400px;
+}
